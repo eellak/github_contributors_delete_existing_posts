@@ -7,16 +7,16 @@ Executes once on activation. Provides informational output when executed from co
 
 ### _Part of the Github Contributors plugin group_
 
-##Synopsis
+## Synopsis
 This project deals with the aggregation, in a presentable and queryable manner, of the developers that have a residence* in the greek territory and contribute in open source projects in Github.
 
-Location
+## Location
 http://opensource.ellak.gr/github_contributor
 
-Motivation
+## Motivation
 The motivation behind this project is the wish that greece located developers have a reference of the community and especially a locality reference, so that the collaboration can be easily promoted to the physical level.
 
-Documentation
+## Documentation
 The project consists of four plugins for the wordpress platform that modularize the functionality into four section
 1. Declare the Custom Post types and the Tags that will accomodate the contributor entries
 2. The Query Handler functionality that handles the POST request that the user submits to the wordpress platform when selecting a city query or a different sorting parameter.
